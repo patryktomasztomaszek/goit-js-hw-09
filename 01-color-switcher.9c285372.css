@@ -1,0 +1,2 @@
+.button-container{justify-content:center;gap:20px;display:flex;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}.button-container button{height:50px;width:150px;text-transform:uppercase;color:#fff;background:rgba(0,80,0,.5);border:none;border-radius:5px;padding:10px;font-size:28px;transition:all .5s ease-in-out}.button-container button:disabled{color:gray;background:gray;border:2px solid #000}
+/*# sourceMappingURL=01-color-switcher.9c285372.css.map */
