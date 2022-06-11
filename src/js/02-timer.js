@@ -112,7 +112,7 @@ function countdown(evt) {
 }
 
 //Initializing datetime picker
-input = flatpickr('#datetime-picker', options);
+datetimePicker = flatpickr('#datetime-picker', options);
 
 // Initializing listener for start button
 startBtn.addEventListener('click', countdown);

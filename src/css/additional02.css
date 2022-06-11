@@ -47,7 +47,7 @@ button:disabled {
 
 .field {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   text-align: center;
   align-items: center;
 }
